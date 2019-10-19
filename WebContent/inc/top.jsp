@@ -16,7 +16,7 @@
 
 				<!-- 메인 로고 -->
 				<h1 class="logo">
-					<a href="#"><img src="../img/후보5.png"></a>
+					<a href="#"><img src="../img/후보5.png" alt="연-결"></a>
 				</h1>
 				<!-- 메인로고 끝 -->
 			</div>
@@ -36,6 +36,7 @@
 		<!-- 카테고리 -->
 		<div class="category">
 			<ul class="category_menu_item">
+				<li class="col-md-1 category_item"></li>
 				<li class="col-md-2 category_item"><a href="#">연-결 소개</a>
 					<ul class="sub">
 						<li><a href="#">사이트소개</a></li>
@@ -68,30 +69,26 @@
 
 				<li class="col-md-2 category_item"><a href="#">연-결 테스트</a>
 					<ul class="sub">
-						<li>연애성향 테스트</li>
-						<li>이상형 찾기</li>
-						<li>내 점수 보기</li>
+						<li><a href="#">연애성향 테스트</a></li>
+						<li><a href="#">이상형 찾기</a></li>
+						<li><a href="#">내 점수 보기</a></li>
 					</ul></li>
 
 
 
 				<li class="col-md-2 category_item"><a href="#">My 연-결</a>
 					<ul class="sub">
-						<li>My 현황</li>
-						<li>인연 찾기</li>
-						<li>1:1문의</li>
-						<li>개인정보 수정</li>
-						<li>회원탈퇴</li>
+						<li><a href="#">My 현황</a></li>
+						<li><a href="#">인연 찾기</a></li>
+						<li><a href="#">1:1문의</a></li>
+						<li><a href="#">개인정보 수정</a></li>
+						<li><a href="#">회원탈퇴</a></li>
 					</ul></li>
 			</ul>
 		</div>
 		<!-- 카테고리 끝 -->
 
-		<!-- 상단 이미지 ( 다른 이미지 저장 시 src 변경 이름 ) -->
-		<div class="boximg">
-			<img src="../img/weddingharmony1.jpg" alt="연-결" class="img-rounded img-responsive" width="1000" />
-		</div>
-		<!-- 상단 이미지 끝 -->
+
 		<!-- 사이드바 메뉴 -->
 		<div class="sidebar">
 			<ul id="sidebar_menu">
@@ -106,6 +103,6 @@
 			</ul>
 		</div>
 		<!-- 사이드바 메뉴 끝 -->
-	
+
 </body>
 </html>
